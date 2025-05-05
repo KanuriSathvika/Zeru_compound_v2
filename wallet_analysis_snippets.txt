@@ -1,0 +1,121 @@
+Wallet Analysis (Top 5 High / Top 5 Low Scores)
+==================================================
+
+--- Top 5 High-Scoring Wallets ---
+
+Wallet ID: 0x0f3c2476fbf0ed09dff00ea7f4ef252dcc72e6f1
+Score: 100.00
+Key Features:
+  - Lifespan (Days): 525.1
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 635384989896.16 (Capped: 20.00)
+Justification: High score likely due to significant deposits/repayments, long lifespan, potentially acting as liquidator, and absence of liquidations.
+
+Wallet ID: 0xc64de5e0f97c21606e1f31426eb5c98ab729c08e
+Score: 96.75
+Key Features:
+  - Lifespan (Days): 499.9
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 9277622315.84 (Capped: 20.00)
+Justification: High score likely due to significant deposits/repayments, long lifespan, potentially acting as liquidator, and absence of liquidations.
+
+Wallet ID: 0xe1447914f234eb30f8725b2f564e60a655e39cc0
+Score: 90.92
+Key Features:
+  - Lifespan (Days): 455.9
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 11834319175.87 (Capped: 20.00)
+Justification: High score likely due to significant deposits/repayments, long lifespan, potentially acting as liquidator, and absence of liquidations.
+
+Wallet ID: 0xcc1e0a566dbd10869c071c811aba436357858f05
+Score: 90.57
+Key Features:
+  - Lifespan (Days): 453.3
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 1050561429.91 (Capped: 20.00)
+Justification: High score likely due to significant deposits/repayments, long lifespan, potentially acting as liquidator, and absence of liquidations.
+
+Wallet ID: 0x7409956e1d10a00ea425722565790e2c77c40ad2
+Score: 87.64
+Key Features:
+  - Lifespan (Days): 464.0
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 1531466940.36 (Capped: 20.00)
+Justification: High score likely due to significant deposits/repayments, long lifespan, potentially acting as liquidator, and absence of liquidations.
+
+--- Top 5 Low-Scoring Wallets ---
+
+Wallet ID: 0xcf9060b126ed8995403d876e0f0bc3a1237bd8f9
+Score: 0.00
+Key Features:
+  - Lifespan (Days): 0.1
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Liquidated Ratio USD: 0.0000
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 291775580.35 (Capped: 20.00)
+Justification: Low score likely driven by liquidations (high count or high ratio), high leverage (borrow/deposit ratio), or potentially short lifespan/low activity.
+
+Wallet ID: 0xc1852f917835a9f2f97112672bc5c8afd1f21dc3
+Score: 0.83
+Key Features:
+  - Lifespan (Days): 236.0
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Liquidated Ratio USD: 0.0000
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 19200538868941.49 (Capped: 20.00)
+Justification: Low score likely driven by liquidations (high count or high ratio), high leverage (borrow/deposit ratio), or potentially short lifespan/low activity.
+
+Wallet ID: 0xe6cfebbf5d9b78da17345f1544cb9002ad6c19c0
+Score: 4.34
+Key Features:
+  - Lifespan (Days): 0.0
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Liquidated Ratio USD: 0.0000
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 471493075.80 (Capped: 20.00)
+Justification: Low score likely driven by liquidations (high count or high ratio), high leverage (borrow/deposit ratio), or potentially short lifespan/low activity.
+
+Wallet ID: 0xed82766957a36b47174c573c5da464f5e7f056c0
+Score: 4.34
+Key Features:
+  - Lifespan (Days): 0.0
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Liquidated Ratio USD: 0.0000
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 1181841629.11 (Capped: 20.00)
+Justification: Low score likely driven by liquidations (high count or high ratio), high leverage (borrow/deposit ratio), or potentially short lifespan/low activity.
+
+Wallet ID: 0xd96e30349c431a458926d4664b4f8be97c35043b
+Score: 4.34
+Key Features:
+  - Lifespan (Days): 0.0
+  - Deposit USD (Log): 0.00
+  - Repay/Borrow USD Ratio: 0.00 (Capped: 0.00)
+  - Liquidated Count: 0
+  - Liquidated Ratio USD: 0.0000
+  - Acted Liquidator Count: 0
+  - Borrow/Deposit USD Ratio: 1595486740.97 (Capped: 20.00)
+Justification: Low score likely driven by liquidations (high count or high ratio), high leverage (borrow/deposit ratio), or potentially short lifespan/low activity.
